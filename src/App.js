@@ -65,7 +65,6 @@ export default function Game() {
   }
 
   function jumpTo(nextMove) {
-    console.log(nextMove)
     setCurrentMove(nextMove);
   }
 
