@@ -79,6 +79,8 @@ body {
 
 .status {
   margin-bottom: 10px;
+  background: orange;
+  padding: 5px;
 }
 
 .game {
@@ -88,4 +90,8 @@ body {
 
 .game-info {
   margin-left: 20px;
+}
+
+.bc {
+  background: green;
 }
